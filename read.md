@@ -1,4 +1,37 @@
-Here are the answers to the questions:
+
+⸻
+
+Wong Corporation (WC) calculations:
+
+Q1)
+	•	X (Gross Profit):
+Sales Revenue (50,000) - Cost of Sales (34,000) = $16,000
+	•	Y (Tax):
+Net Profit before Tax = $4,000
+Tax (20% of 4,000) = $800
+
+Profit and Loss Account Summary (2022):
+
+Particulars	($000)
+Sales Revenue	50,000
+Cost of Sales	(34,000)
+Gross Profit	16,000
+Expenses	(10,000)
+Interest	(2,000)
+Net Profit before tax	4,000
+Tax	(800)
+Net Profit after interest & tax	3,200
+
+Q2) Net Cash Flow Calculation (2022):
+	•	Total Receipts: $48,000
+	•	Total Payments: $45,400
+Net Cash Flow (Z): 48,000 - 45,400 = $2,600
+
+Q3) Difference between WC’s profit and cash flow:
+	•	Profit: Refers to financial performance (revenue minus expenses). Profit can exist without immediate cash inflows.
+	•	Cash Flow: Actual inflow and outflow of cash. Businesses may have profit but negative cash flow due to credit sales or delayed receipts.
+
+⸻
 
 ⸻
 
@@ -39,37 +72,3 @@ B) Definitions:
 	•	Capital: Funds invested by owners/shareholders into the business.
 	•	Retained Profit: Profit kept within the business for reinvestment rather than distributed as dividends.
 	•	Debtors: Customers who owe money to the business for goods or services supplied on credit.
-
-⸻
-
-Wong Corporation (WC) calculations:
-
-Q1)
-	•	X (Gross Profit):
-Sales Revenue (50,000) - Cost of Sales (34,000) = $16,000
-	•	Y (Tax):
-Net Profit before Tax = $4,000
-Tax (20% of 4,000) = $800
-
-Profit and Loss Account Summary (2022):
-
-Particulars	($000)
-Sales Revenue	50,000
-Cost of Sales	(34,000)
-Gross Profit	16,000
-Expenses	(10,000)
-Interest	(2,000)
-Net Profit before tax	4,000
-Tax	(800)
-Net Profit after interest & tax	3,200
-
-Q2) Net Cash Flow Calculation (2022):
-	•	Total Receipts: $48,000
-	•	Total Payments: $45,400
-Net Cash Flow (Z): 48,000 - 45,400 = $2,600
-
-Q3) Difference between WC’s profit and cash flow:
-	•	Profit: Refers to financial performance (revenue minus expenses). Profit can exist without immediate cash inflows.
-	•	Cash Flow: Actual inflow and outflow of cash. Businesses may have profit but negative cash flow due to credit sales or delayed receipts.
-
-⸻
